@@ -1,8 +1,9 @@
-package org.nomadblacky.hamburger;
+package org.nomadblacky.hamburger.hamburger;
+
+import org.nomadblacky.hamburger.topping.Topping;
 
 import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * Created by blacky on 17/06/20.

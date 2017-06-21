@@ -1,4 +1,4 @@
-package org.nomadblacky.hamburger;
+package org.nomadblacky.hamburger.hamburger;
 
 /**
  * Created by blacky on 17/06/20.

@@ -5,16 +5,15 @@ package org.nomadblacky.hamburger;
  */
 public class Main {
 
+    private Hamburger regular = new
+
     private Topping tomato  = new NormalTopping("トマト",  30);
     private Topping lettuce = new NormalTopping("レタス",  75);
     private Topping cheese  = new NormalTopping("チーズ", 100);
     private Topping egg     = new NormalTopping("タマゴ",  50);
 
-    private Main() {
-
-    }
-
     private void run() {
+
     }
 
     public static void main(String[] args) {
