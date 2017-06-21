@@ -1,4 +1,4 @@
-package org.nomadblacky.hamburger.topping;
+package org.nomadblacky.hamburger_shop.topping;
 
 /**
  * Created by blacky on 17/06/20.

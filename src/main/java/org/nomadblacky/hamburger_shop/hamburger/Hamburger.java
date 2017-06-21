@@ -1,6 +1,6 @@
-package org.nomadblacky.hamburger.hamburger;
+package org.nomadblacky.hamburger_shop.hamburger;
 
-import org.nomadblacky.hamburger.topping.Topping;
+import org.nomadblacky.hamburger_shop.topping.Topping;
 
 import java.util.List;
 
