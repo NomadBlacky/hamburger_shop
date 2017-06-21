@@ -1,5 +1,9 @@
 package org.nomadblacky.hamburger_shop;
 
+import org.nomadblacky.hamburger_shop.hamburger.Hamburger;
+import org.nomadblacky.hamburger_shop.topping.NormalTopping;
+import org.nomadblacky.hamburger_shop.topping.Topping;
+
 /**
  * Created by blacky on 17/06/20.
  */
